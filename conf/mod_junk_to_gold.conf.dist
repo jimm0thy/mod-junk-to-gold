@@ -1,0 +1,17 @@
+[worldserver]
+
+##############################################
+# mod-junk-to-gold configuration
+##############################################
+#
+#
+# 	JunkToGold.IgnoreRealPlayers
+#		Set to enabled to not sell real players junk look, disabled to sell it
+#		Default: 1 (enabled)
+JunkToGold.IgnoreRealPlayers = 1
+
+#
+#	JunkToGold.BotAccountPrefix
+#		The account prefix used for bot accounts
+#		Default: rndbot
+JunkToGold.BotAccountPrefix = rndbot
